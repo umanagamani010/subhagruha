@@ -1,0 +1,15 @@
+# Build output
+build/
+target/
+*.class
+*.war
+
+# Editors and OS files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Payment keys (they should live outside the project anyway)
+razorpay.properties
+*.secret

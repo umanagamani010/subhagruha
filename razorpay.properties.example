@@ -1,0 +1,5 @@
+# Create a NEW file named  razorpay.properties  in your user folder (for example C:\Users\sai)
+# and copy these two lines into it. Put in your own TEST keys from the Razorpay dashboard.
+# Never put this file inside the project folder and never upload it to GitHub.
+key_id=rzp_test_xxxxxxxxxxxxxx
+key_secret=xxxxxxxxxxxxxxxxxxxxxxxx
